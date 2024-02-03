@@ -6,6 +6,8 @@ public class Adil {
 
         System.out.println();
 
+        System.out.println("merhaba999");
+
     }
 
 }
