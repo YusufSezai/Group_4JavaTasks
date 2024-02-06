@@ -1,7 +1,6 @@
-package week01.question03;
+package week01.question3;
 
 public class Yusra {
-
     public static void main(String[] args) {
         FINRA();
     }
@@ -35,3 +34,4 @@ Write a method which prints out the numbers from 1 to 30, but print "FIN" instea
  "RA" instead of numbers for numbers that are multiples of 5, and a multiple of both 3 and 5 for "FINRA" instead
  of the number.
  */
+
