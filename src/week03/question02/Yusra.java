@@ -13,6 +13,7 @@ public class Yusra {
     }
 
     public static void main(String[] args) {
+
         System.out.println(reverseInt(5678));
     }
 
