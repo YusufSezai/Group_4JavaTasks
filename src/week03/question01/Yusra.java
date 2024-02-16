@@ -21,3 +21,13 @@ public class Yusra {
 
     }
 }
+/*
+
+    Write a method that can check if a number is prime or not
+
+        a number is a prime number when it is only divisible by 1 and itself
+
+        ex:
+            2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47
+
+ */

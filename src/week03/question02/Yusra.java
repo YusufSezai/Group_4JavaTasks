@@ -1,6 +1,7 @@
 package week03.question02;
 
 public class Yusra {
+
     public static int reverseInt(int n) {
         int rev = 0;
 
@@ -18,3 +19,8 @@ public class Yusra {
     }
 
 }
+/*
+    Numbers -- Reverse Negative Number
+    Write a return method that can reverse digits of a negative number and return it as int
+    input: -35  output: -53
+*/
