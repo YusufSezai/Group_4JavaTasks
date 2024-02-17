@@ -1,33 +1,33 @@
 package week02.question03;
 
-public class Yusra {
+public class Yusuf {
     public static void main(String[] args) {
+        consecutive(24);
 
-        ConsecutiveNumbers(36);
     }
-    public static void ConsecutiveNumbers(int n){
+    public static void consecutive(int n) {
 
-        for(int i = 1; i <= n; i++){
+        for (int i = 1; i <= n ; i++) {
             String result = "";
-
-            if(i % 2 == 0){
+            if (i % 2 == 0) {
                 result += "Codility";
             }
-            if(i % 3 == 0){
+            if (i % 3 == 0) {
                 result += "Test";
             }
-            if(i % 5 == 0){
-                result += "Coders";
-            }if(result.isEmpty()){
+            if (i % 5 == 0) {
+                result += "Coder";
+            }
+            if (result.isEmpty()) {
                 System.out.println(i);
-            }else {
+            } else {
                 System.out.println(result);
             }
         }
 
     }
 }
- /*
+/*
 
            Numbers -- print consecutive numbers
 

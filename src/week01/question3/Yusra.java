@@ -1,7 +1,6 @@
 package week01.question3;
 
 public class Yusra {
-
     public static void main(String[] args) {
         FINRA();
     }
