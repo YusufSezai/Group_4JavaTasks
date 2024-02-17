@@ -1,8 +1,9 @@
 package week02.question03;
 
-public class Emel {
-    public static void main(String[] args) {
+public class Azra {
+    public static int m;
 
+    public static void main(String[] args) {
         consecutiveNumbers(24);
 
     }

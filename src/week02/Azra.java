@@ -1,10 +1,9 @@
-package week02.question01;
+package week02;
 
-public class Yusuf {
+public class Azra {
     public static void main(String[] args) {
-
-        int a = 2;
-        int b = 3;
+        int a = 4;
+        int b = 7;
 
         a = a + b;
         b = a - b;
@@ -12,7 +11,5 @@ public class Yusuf {
 
         System.out.println(a);
         System.out.println(b);
-
-
     }
 }
