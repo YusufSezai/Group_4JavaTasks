@@ -5,7 +5,7 @@ public class Ebubekir {
 
     public static void main(String[] args) {
 
-        printNumbers(31);
+        PrintNumbers(31);
 
     }
 
@@ -44,10 +44,10 @@ public class Ebubekir {
 
             if(result.equals("")){
 
-                System.out.println(result);
+                System.out.println(i);
 
             }else{
-                System.out.println(i);
+                System.out.println(result);
             }
 
         }
@@ -83,34 +83,5 @@ public class Ebubekir {
 
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-    public static void printNumbers(int N) {
-        for (int i = 1; i <= N; i++) {
-            String result = "";
-
-            if (i % 2 == 0) result += "Codility";
-            if (i % 3 == 0) result += "Test";
-            if (i % 5 == 0) result += "Coders";
-
-            if (result.equals("")) {
-                System.out.println(i);
-            } else {
-                System.out.println(result);
-            }
-        }
-    }
-
 
 }
