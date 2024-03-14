@@ -14,6 +14,7 @@ public class Bianca {
             if(each > max){
                 max = each;
             }
+
         }
 
         return max;
