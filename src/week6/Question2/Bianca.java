@@ -13,6 +13,7 @@ public class Bianca {
         for (int each:array) {
             if(each > max){
                 max = each;
+
             }
 
         }
