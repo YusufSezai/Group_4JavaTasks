@@ -1,0 +1,33 @@
+ Java Coding Tasks - Week07 
+
+( Due Date:  March 28 )
+
+------------------------------------------------------------------
+
+ ==> Question 01- FindMinimum
+
+	Write a method that can find the minimum number from an int Array
+
+	Ex:  int[] arr = {99, 12, 23, 32, 44, 57, 6} ==> 6
+
+------------------------------------------------------------------
+
+ ==> Question 02- SortAscending
+
+	Write a return method that can sort an int array in Ascending order.
+	WITHOUT USING THE SORT METHOD of the Arrays class
+
+	Ex: int[] arr = {10, 9, 8, 7};
+	arr = Sort(arr); ==>{ 7, 8, 9, 10};
+
+------------------------------------------------------------------
+
+ ==> Question 03- SortDescending
+
+	Write a return method that can sort an int array in descending order.
+	WITHOUT USING THE SORT METHOD of the Arrays class
+
+	Ex: int[] arr = {10,20,7, 8, 90};
+	arr = Sort(arr); ==> {90, 20, 10, 8, 7};
+
+------------------------------------------------------------------
